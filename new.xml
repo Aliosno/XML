@@ -1,0 +1,9 @@
+<Person>
+    <Name>Alisa</Name>
+    <Surname>Sosno</Surname>
+    <Age>55</Age>
+    <Pets>
+        <Pet>Cat</Pet>
+    </Pets>
+    <Salary>120000RUR</Salary>
+</Person>    
